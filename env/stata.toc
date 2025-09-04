@@ -1,0 +1,7 @@
+d ENV: package for exporting local environments
+d 
+d Time: 08:31:29,  4 Sep 2025
+d Stata Version: 16
+d 
+d Author: Shutter Zor(左祥太)
+d Email: shutter_z@outlook.com
