@@ -9,7 +9,7 @@
 
 capture program drop bdiffv
 program define bdiffv, rclass
-	This is a network download package from GitHub.
+	dis as result "This is a network download package from GitHub."
 end
 
 
@@ -42,6 +42,7 @@ program NotSupported
 	}
 
 end	   
+
 
 
 
